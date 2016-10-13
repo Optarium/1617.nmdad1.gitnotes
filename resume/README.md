@@ -16,7 +16,7 @@
     2013-2015 Opleiding MultiMedia
     
 #Werkervaring
-    Ervaringen van het maken van animaties en logo's voor kennisen.
+    Ervaringen van het maken van animaties en logo's voor kennissen.
     
 #Cursussen en Workshops
     nvt
