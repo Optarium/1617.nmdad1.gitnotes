@@ -31,10 +31,10 @@
     Favoriete website:  nvt
     
 #Talenkennis
-            Nederlands 9/10
-            Engels     8/10
-            Frans      6/10
-            Duits      2/10
+    Nederlands 9/10
+    Engels     8/10
+    Frans      6/10
+    Duits      2/10
             
 Overige
     nvt
