@@ -8,7 +8,7 @@
     Telefoonnummer:     0497179046
     E-mailadres:        RobbeDeCock@outlook.be
     Website:            nvt
-    Sociale Media:      <a href= "https://www.facebook.com/robbe.decock1" ></a>
+    Sociale Media:      ![alt tag] (https://www.facebook.com/robbe.decock1)
 
 #Opleidingen
     2008-2011 Opleiding Humane Wetenschappen
