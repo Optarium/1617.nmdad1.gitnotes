@@ -38,4 +38,4 @@
             
 Overige
     nvt
-<div class="foto" style="width:100px; height:100px;">![](http://example.com/logo.png)</div> 
+<div class="foto" style="width:100px; height:100px;">![](https://scontent-bru2-1.xx.fbcdn.net/t31.0-8/10582761_10202297596193471_7365394562180837573_o.jpg)</div> 
