@@ -1,1 +1,7 @@
 #1617.nmdad1.gitnotes
+.DS_Store
+#DS_Store
+**/.DS_Store
+# Ignore Mac DS_Store files
+.DS_Store
+*.DS_Store
